@@ -9,6 +9,7 @@ x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
+publish/
 
 # Rider / VS / VSCode IDE
 .idea/
