@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMax CPU Fan Display", "GameMax CPU Fan Display.csproj", "{3364ACB0-F577-4106-9800-325589C04C60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMax CPU Fan Display", "GameMax CPU Fan Display\GameMax CPU Fan Display.csproj", "{3364ACB0-F577-4106-9800-325589C04C60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
