@@ -1,0 +1,57 @@
+﻿# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Rider / VS / VSCode IDE
+.idea/
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated
+*.Generated.cs
+*.g.cs
+*.g.i.cs
+*.ncb
+*.aps
+*.cache
+*.ilk
+*.obj
+*.pdb
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ipch
+
+# Packages
+*.nuget/
+packages/
+*.nupkg
+project.lock.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.dbmdl
+*.bak
+*.swp
+*.tmp
+*.DS_Store
